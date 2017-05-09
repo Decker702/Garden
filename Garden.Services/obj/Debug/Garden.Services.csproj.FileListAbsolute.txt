@@ -1,0 +1,14 @@
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Garden.Services.dll.config
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Garden.Services.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Garden.Services.pdb
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\EntityFramework.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\EntityFramework.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\obj\Debug\Garden.Services.csprojResolveAssemblyReference.cache
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\obj\Debug\Garden.Services.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Garden\Garden.Services\obj\Debug\Garden.Services.pdb
